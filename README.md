@@ -1,6 +1,6 @@
 # LSTM_MDN
 ## Content:
-Thank you to Axel Brando, who provided a clear and excellent notebook to show how to build a LSTM-MDN.
+Thank you to Axel Brando, who provided a clear and excellent notebook to show how to build a LSTM-MDN. </br>
 And, This is a simple script of python which applying Bidirectional Long Short Term Memory and Mixture Density Network to predict sin function.
 
 ## Result:
